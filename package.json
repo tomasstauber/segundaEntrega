@@ -1,14 +1,13 @@
 {
-  "name": "segundaEntrega",
+  "name": "segundaentrega",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tomas Stauber",
   "license": "ISC",
   "dependencies": {
     "@handlebars/allow-prototype-access": "^1.0.5",
@@ -17,5 +16,14 @@
     "mongoose": "^7.4.4",
     "mongoose-paginate-v2": "^1.7.31",
     "socket.io": "^4.7.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasstauber/segundaEntrega.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomasstauber/segundaEntrega/issues"
+  },
+  "homepage": "https://github.com/tomasstauber/segundaEntrega#readme",
+  "description": ""
 }
